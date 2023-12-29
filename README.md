@@ -1,7 +1,7 @@
 # House Price Prediction Using AI
 
 ## Overview
-This project focuses on predicting house prices using Artificial Intelligence (AI) techniques. The goal is to leverage machine learning models to analyze various features of houses and make accurate predictions regarding their market value. This README file provides an overview of the project, its objectives, dependencies, and usage.
+This project focuses on predicting house prices using Artificial Intelligence (AI) techniques. The goal is to leverage machine learning models to analyze various features of houses and make accurate predictions regarding their market value. 
 
 ## Objectives
 
